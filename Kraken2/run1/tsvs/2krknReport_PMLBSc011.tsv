@@ -1,0 +1,144 @@
+percentCovered	fragmentsCovered	fragmentsAssigned	rankCode	ncbiID	name
+ 98.68	36859670	36859670	U	0	unclassified
+  1.32	491867	0	R	1	root
+  1.32	491867	0	R1	131567	  cellular organisms
+  1.32	491867	0	D	2	    Bacteria
+  1.32	491867	0	P	1224	      Pseudomonadota
+  1.32	491867	0	C	28211	        Alphaproteobacteria
+  1.32	491867	0	O	766	          Rickettsiales
+  1.32	491867	0	F	942	            Anaplasmataceae
+  1.32	491867	0	F1	952	              Wolbachieae
+  1.32	491867	9470	G	953	                Wolbachia
+  1.29	482030	440189	G1	2640676	                  unclassified Wolbachia
+  0.01	4836	4836	S	109663	                    Wolbachia endosymbiont of Drosophila mauritiana
+  0.01	2528	2528	S	3066134	                    Wolbachia endosymbiont (group A) of Longitarsus flavicornis
+  0.00	1762	1762	S	2953989	                    Wolbachia endosymbiont (group A) of Calamotropha paludella
+  0.00	1344	1344	S	116598	                    Wolbachia endosymbiont of Diaphorina citri
+  0.00	1269	1269	S	2954066	                    Wolbachia endosymbiont (group B) of Watsonalla binaria
+  0.00	1201	1201	S	2953978	                    Wolbachia endosymbiont (group A) of Anomoia purmunda
+  0.00	1200	1200	S	2954019	                    Wolbachia endosymbiont (group A) of Icerya purchasi
+  0.00	1108	1108	S	2954030	                    Wolbachia endosymbiont (group B) of Melanostoma mellinum
+  0.00	1084	1084	S	2954015	                    Wolbachia endosymbiont (group A) of Eupithecia tripunctaria
+  0.00	1079	1079	S	2953991	                    Wolbachia endosymbiont (group B) of Camptogramma bilineatum
+  0.00	847	847	S	931100	                    Wolbachia endosymbiont of Oedothorax gibbosus
+  0.00	749	749	S	2954021	                    Wolbachia endosymbiont (group B) of Ischnura elegans
+  0.00	704	704	S	2953972	                    Wolbachia endosymbiont (group B) of Agriphila straminella
+  0.00	669	669	S	2954018	                    Wolbachia endosymbiont (group A) of Hylaeus communis
+  0.00	657	657	S	2953995	                    Wolbachia endosymbiont (group A) of Cheilosia soror
+  0.00	636	636	S	282263	                    Wolbachia endosymbiont of Drosophila innubila
+  0.00	631	631	S	2954046	                    Wolbachia endosymbiont (group A) of Philonthus cognatus
+  0.00	612	612	S	3080329	                    Wolbachia endosymbiont of Drosophila aff. chauvacae BK-2020
+  0.00	577	577	S	2748871	                    Wolbachia endosymbiont of Anopheles demeilloni
+  0.00	552	552	S	1633785	                    Wolbachia endosymbiont of Drosophila incompta
+  0.00	519	519	S	2954061	                    Wolbachia endosymbiont (group A) of Sympetrum striolatum
+  0.00	518	518	S	2953980	                    Wolbachia endosymbiont (group A) of Apoderus coryli
+  0.00	506	506	S	2954053	                    Wolbachia endosymbiont (group A) of Rhinocyllus conicus
+  0.00	504	504	S	375919	                    Wolbachia endosymbiont of Drosophila pseudotakahashii
+  0.00	500	500	S	2954055	                    Wolbachia endosymbiont (group A) of Scambus nigricans
+  0.00	484	484	S	1335053	                    Wolbachia endosymbiont of Chrysomya megacephala
+  0.00	477	477	S	2954056	                    Wolbachia endosymbiont (group A) of Sicus ferrugineus
+  0.00	475	475	S	169402	                    Wolbachia endosymbiont of Folsomia candida
+  0.00	466	466	S	2954054	                    Wolbachia endosymbiont (group B) of Rhopobota naevana
+  0.00	448	448	S	497299	                    Wolbachia endosymbiont of Ceratosolen solmsi
+  0.00	441	441	S	2954042	                    Wolbachia endosymbiont (group A) of Phalera bucephala
+  0.00	431	431	S	2954051	                    Wolbachia endosymbiont (group B) of Protocalliphora azurea
+  0.00	422	422	S	167957	                    Wolbachia endosymbiont of Aedes albopictus
+  0.00	416	416	S	2953993	                    Wolbachia endosymbiont (group B) of Catoptria pinella
+  0.00	414	414	S	2954025	                    Wolbachia endosymbiont (group A) of Lasioglossum morio
+  0.00	377	377	S	2954006	                    Wolbachia endosymbiont (group A) of Epagoge grotiana
+  0.00	377	377	S	2954004	                    Wolbachia endosymbiont (group A) of Endotricha flammealis
+  0.00	367	367	S	2954039	                    Wolbachia endosymbiont (group B) of Pandemis corylana
+  0.00	364	364	S	2954009	                    Wolbachia endosymbiont (group B) of Episyrphus balteatus
+  0.00	356	356	S	2953997	                    Wolbachia endosymbiont (group B) of Chorthippus parallelus
+  0.00	347	0	S	77038	                    Wolbachia endosymbiont of Drosophila simulans
+  0.00	347	347	S1	1236909	                      Wolbachia endosymbiont of Drosophila simulans wHa
+  0.00	344	344	S	2954068	                    Wolbachia endosymbiont (group A) of Yponomeuta plumbellus
+  0.00	333	333	S	2953987	                    Wolbachia endosymbiont (group A) of Bibio marci
+  0.00	329	329	S	2954005	                    Wolbachia endosymbiont (group B) of Endotricha flammealis
+  0.00	315	315	S	2953988	                    Wolbachia endosymbiont (group A) of Bombylius major
+  0.00	307	307	S	125593	                    Wolbachia endosymbiont of Trichogramma pretiosum
+  0.00	299	299	S	2953971	                    Wolbachia endosymbiont (group A) of Acrocera orbiculus
+  0.00	279	279	S	2953975	                    Wolbachia endosymbiont (group A) of Andrena dorsata
+  0.00	273	273	S	2953982	                    Wolbachia endosymbiont (group B) of Apotomis betuletana
+  0.00	266	266	S	2953974	                    Wolbachia endosymbiont (group A) of Ancistrocerus nigricornis
+  0.00	265	265	S	2954016	                    Wolbachia endosymbiont (group A) of Gymnosoma rotundatum
+  0.00	260	260	S	2591635	                    Wolbachia endosymbiont of Carposina sasakii
+  0.00	245	245	S	2953983	                    Wolbachia endosymbiont (group B) of Apotomis turbidana
+  0.00	240	240	S	573241	                    Wolbachia endosymbiont of Oryzaephilus surinamensis
+  0.00	239	239	S	2969106	                    Wolbachia endosymbiont of Listronotus oregonensis
+  0.00	237	237	S	215173	                    Wolbachia endosymbiont of Bemisia tabaci
+  0.00	237	237	S	2954008	                    Wolbachia endosymbiont (group A) of Epistrophe grossularia
+  0.00	233	233	S	2953999	                    Wolbachia endosymbiont (group A) of Coremacera marginata
+  0.00	232	232	S	2742717	                    Wolbachia endosymbiont of Wiebesia pumilae
+  0.00	227	227	S	2954012	                    Wolbachia endosymbiont (group B) of Eucosma cana
+  0.00	217	217	S	2954064	                    Wolbachia endosymbiont (group A) of Trypoxylon clavicerum
+  0.00	204	204	S	2954031	                    Wolbachia endosymbiont (group A) of Merzomyia westermanni
+  0.00	197	197	S	2953976	                    Wolbachia endosymbiont (group A) of Andrena haemorrhoa
+  0.00	187	187	S	3066209	                    Wolbachia endosymbiont (group A) of Ophion costatus
+  0.00	186	186	S	2954063	                    Wolbachia endosymbiont (group A) of Tiphia femorata
+  0.00	185	185	S	2954023	                    Wolbachia endosymbiont (group A) of Lasioglossum lativentre
+  0.00	175	175	S	2902422	                    Wolbachia endosymbiont of Frankliniella intonsa
+  0.00	164	164	S	2954002	                    Wolbachia endosymbiont (group A) of Ectemnius continuus
+  0.00	163	163	S	2954057	                    Wolbachia endosymbiont (group A) of Sphaerophoria taeniata
+  0.00	149	149	S	502352	                    Wolbachia endosymbiont of Delia radicum
+  0.00	147	147	S	2954027	                    Wolbachia endosymbiont (group B) of Lycaena phlaeas
+  0.00	117	117	S	3066208	                    Wolbachia endosymbiont (group A) of Nomada hirtipes
+  0.00	113	113	S	2886377	                    Wolbachia endosymbiont of Phyllotreta cruciferae
+  0.00	103	103	S	2954011	                    Wolbachia endosymbiont (group B) of Erynnis tages
+  0.00	89	89	S	2953984	                    Wolbachia endosymbiont (group B) of Archips podanus
+  0.00	89	89	S	307502	                    Wolbachia endosymbiont of Drosophila ananassae
+  0.00	80	80	S	2769078	                    Wolbachia endosymbiont of Spodoptera picta
+  0.00	75	75	S	246273	                    Wolbachia endosymbiont of Cimex lectularius
+  0.00	75	75	S	2954007	                    Wolbachia endosymbiont (group A) of Epirrhoe alternata
+  0.00	72	72	S	2732593	                    Wolbachia endosymbiont of Ctenocephalides felis wCfeT
+  0.00	70	70	S	1812115	                    Wolbachia endosymbiont of Dirofilaria (Dirofilaria) immitis
+  0.00	70	70	S	2883236	                    Wolbachia endosymbiont of Psylliodes chrysocephala
+  0.00	69	69	S	2954028	                    Wolbachia endosymbiont (group A) of Macropis europaea
+  0.00	66	66	S	2953986	                    Wolbachia endosymbiont (group B) of Athalia cordata
+  0.00	63	63	S	2732594	                    Wolbachia endosymbiont of Ctenocephalides felis wCfeJ
+  0.00	63	63	S	2954014	                    Wolbachia endosymbiont (group B) of Euphydryas aurinia
+  0.00	60	60	S	2954044	                    Wolbachia endosymbiont (group A) of Pheosia gnoma
+  0.00	40	40	S	3066210	                    Wolbachia endosymbiont (group A) of Ophion ellenae
+  0.00	39	39	S	2954052	                    Wolbachia endosymbiont (group B) of Pyrgus malvae
+  0.00	28	28	S	2954037	                    Wolbachia endosymbiont (group B) of Pammene fasciana
+  0.00	18	18	S	2953998	                    Wolbachia endosymbiont (group B) of Colias croceus
+  0.00	11	11	S	2953981	                    Wolbachia endosymbiont (group B) of Aporia crataegi
+  0.00	6	6	S	2954033	                    Wolbachia endosymbiont (group A) of Nomada fabriciana
+  0.00	5	5	S	2954017	                    Wolbachia endosymbiont (group B) of Hylaea fasciaria
+  0.00	5	0	S	263437	                    Wolbachia endosymbiont of Culex quinquefasciatus
+  0.00	5	5	S1	570417	                      Wolbachia endosymbiont of Culex quinquefasciatus Pel
+  0.00	5	5	S	2954060	                    Wolbachia endosymbiont (group A) of Sphecodes monilicornis
+  0.00	5	5	S	2953979	                    Wolbachia endosymbiont (group A) of Anoplius nigerrimus
+  0.00	4	4	S	80850	                    Wolbachia endosymbiont of Litomosoides sigmodontis
+  0.00	4	4	S	2954050	                    Wolbachia endosymbiont (group A) of Protocalliphora azurea
+  0.00	2	2	S	2954013	                    Wolbachia endosymbiont (group B) of Eupeodes latifasciatus
+  0.00	2	2	S	2954049	                    Wolbachia endosymbiont (group B) of Polyommatus icarus
+  0.00	1	1	S	2603209	                    Wolbachia endosymbiont of Zaprionus tsacasi
+  0.00	1	1	S	2883238	                    Wolbachia endosymbiont of Chironomus riparius
+  0.00	1	0	S	80849	                    Wolbachia endosymbiont of Brugia malayi
+  0.00	1	1	S1	292805	                      Wolbachia endosymbiont strain TRS of Brugia malayi
+  0.00	1	1	S	96495	                    Wolbachia endosymbiont of Brugia pahangi
+  0.00	1	1	S	1812112	                    Wolbachia endosymbiont of Dipetalonema caudispina
+  0.00	0	0	S	2953994	                    Wolbachia endosymbiont (group B) of Celastrina argiolus
+  0.00	0	0	S	2954062	                    Wolbachia endosymbiont (group B) of Thymelicus sylvestris
+  0.00	0	0	S	2954067	                    Wolbachia endosymbiont (group B) of Xestia c-nigrum
+  0.00	0	0	S	546165	                    Wolbachia endosymbiont of Aedes aegypti
+  0.00	0	0	S	77551	                    Wolbachia endosymbiont of Onchocerca volvulus
+  0.00	0	0	S1	1410384	                      Wolbachia endosymbiont of Onchocerca volvulus str. Cameroon
+  0.00	0	0	S	100901	                    Wolbachia endosymbiont of Onchocerca ochengi
+  0.00	0	0	S	154048	                    Wolbachia endosymbiont of Ostrinia furnacalis
+  0.00	0	0	S	163164	                    Wolbachia endosymbiont of Drosophila melanogaster
+  0.00	0	0	S	183754	                    Wolbachia endosymbiont of Ostrinia scapulalis
+  0.00	0	0	S	218111	                    Wolbachia endosymbiont of Corcyra cephalonica
+  0.00	0	0	S	260915	                    Wolbachia endosymbiont of Drosophila yakuba
+  0.00	0	0	S	260917	                    Wolbachia endosymbiont of Drosophila santomea
+  0.00	0	0	S	2954045	                    Wolbachia endosymbiont (group B) of Pheosia tremula
+  0.00	0	0	S	1812111	                    Wolbachia endosymbiont of Cruorifilaria tuberocauda
+  0.00	0	0	S	2953990	                    Wolbachia endosymbiont (group B) of Campaea margaritaria
+  0.00	0	0	S	2954003	                    Wolbachia endosymbiont (group B) of Emmelina monodactyla
+  0.00	0	0	S	2954034	                    Wolbachia endosymbiont (group B) of Nymphalis c-album
+  0.00	0	0	S	2954040	                    Wolbachia endosymbiont (group B) of Parapoynx stratiotata
+  0.00	0	0	S	2954041	                    Wolbachia endosymbiont (group B) of Pararge aegeria
+  0.00	0	0	S	2954043	                    Wolbachia endosymbiont (group B) of Phalera bucephala
+  0.00	329	329	S	1845000	                  Candidatus Wolbachia massiliensis
+  0.00	38	38	S	955	                  Wolbachia pipientis
