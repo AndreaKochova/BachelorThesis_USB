@@ -1,0 +1,5 @@
+All BLASTX-related data, inlcuding: 
+    - generated outputs by BLASTX itself,
+    - filtered tables 
+    - extracted contigs 
+    - additional intermediate files
