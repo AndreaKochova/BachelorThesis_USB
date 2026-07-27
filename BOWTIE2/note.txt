@@ -1,0 +1,5 @@
+The whole Mapping cycle outputs and intermediate files, including:
+    - Database used (DB) + raw refs
+    - the mapping statistics coverage and meandepth (stats_###.tsvs) + combined view (stats.tsv)
+    - the mapping stats in a histogram format (hist_###.txts)
+    - calculating rpm (rpm_out.tsv)

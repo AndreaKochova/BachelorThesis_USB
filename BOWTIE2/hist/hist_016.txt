@@ -1,0 +1,155 @@
+NC_002978.6 (1.27Mbp)
+>   1.08% │                                              █   │ Number of reads: 4
+>   0.96% │                                              █   │ 
+>   0.84% │                                              █   │ Covered bases:   305bp
+>   0.72% │                                              █   │ Percent covered: 0.02406%
+>   0.60% │                                              █   │ Mean coverage:   0.000383x
+>   0.48% │                                              █   │ Mean baseQ:      36.4
+>   0.36% │                                              █   │ Mean mapQ:       0
+>   0.24% │                                              █   │ 
+>   0.12% │                                              █   │ Histo bin width: 25.4Kbp
+>   0.00% │                                              █   │ Histo max bin:   1.2029%
+          1       253.6K    507.1K    760.6K    1.01M      1.27M  
+
+NC_006833.1 (1.08Mbp)
+>   1.15% │                                         █        │ Number of reads: 12
+>   1.02% │                             ▅           █        │ 
+>   0.89% │                             █           █        │ Covered bases:   514bp
+>   0.77% │                             █           █        │ Percent covered: 0.04759%
+>   0.64% │                             █           █        │ Mean coverage:   0.00116x
+>   0.51% │                             █           █        │ Mean baseQ:      35.3
+>   0.38% │                             █           █        │ Mean mapQ:       2
+>   0.26% │                             █           █        │ 
+>   0.13% │                             █           █        │ Histo bin width: 21.6Kbp
+>   0.00% │                             █           █        │ Histo max bin:   1.2777%
+          1       216.0K    432.0K    648.0K    864.0K     1.08M  
+
+NC_012416.1 (1.45Mbp)
+>   1.92% │                                            █     │ Number of reads: 10
+>   1.70% │                                            █     │ 
+>   1.49% │                                            █     │ Covered bases:   663bp
+>   1.28% │                                            █     │ Percent covered: 0.04585%
+>   1.07% │                                            █     │ Mean coverage:   0.000709x
+>   0.85% │                                            █     │ Mean baseQ:      35.8
+>   0.64% │                                            █     │ Mean mapQ:       4.4
+>   0.43% │                                            █     │ 
+>   0.21% │                                            █     │ Histo bin width: 28.9Kbp
+>   0.00% │   ▆                                        █     │ Histo max bin:   2.1302%
+          1       289.2K    578.3K    867.5K    1.16M      1.45M  
+
+NC_010981.1 (1.48Mbp)
+>   1.49% │                                         █        │ Number of reads: 4
+>   1.32% │                                         █        │ 
+>   1.16% │                                         █        │ Covered bases:   491bp
+>   0.99% │                                         █        │ Percent covered: 0.03312%
+>   0.83% │                                         █        │ Mean coverage:   0.000331x
+>   0.66% │                                         █        │ Mean baseQ:      36.8
+>   0.50% │                                         █        │ Mean mapQ:       2
+>   0.33% │                                         █        │ 
+>   0.17% │                                         █        │ Histo bin width: 29.6Kbp
+>   0.00% │                                         █        │ Histo max bin:   1.656%
+          1       296.5K    593.0K    889.5K    1.19M      1.48M  
+
+NC_018267.1 (958.0Kbp)
+>   1.61% │                                                █ │ Number of reads: 7
+>   1.43% │                                                █ │ 
+>   1.25% │                                                █ │ Covered bases:   387bp
+>   1.07% │                                                █ │ Percent covered: 0.0404%
+>   0.89% │                                                █ │ Mean coverage:   0.000543x
+>   0.71% │                                                █ │ Mean baseQ:      35.1
+>   0.54% │                                                █ │ Mean mapQ:       6.57
+>   0.36% │                                                █ │ 
+>   0.18% │                                              ▃ █ │ Histo bin width: 19.2Kbp
+>   0.00% │                                              █ █ │ Histo max bin:   1.7851%
+          1       191.6K    383.2K    574.8K    766.4K     958.0K 
+
+NC_021084.1 (1.30Mbp)
+>   0.60% │                           █      ▅               │ Number of reads: 6
+>   0.54% │                           █      █               │ 
+>   0.47% │                           █      █               │ Covered bases:   456bp
+>   0.40% │                    ▄      █      █               │ Percent covered: 0.03503%
+>   0.34% │                    █      █      █               │ Mean coverage:   0.000463x
+>   0.27% │                    █      █      █               │ Mean baseQ:      36.5
+>   0.20% │                    █      █      █               │ Mean mapQ:       0.333
+>   0.13% │                    █      █      █               │ 
+>   0.07% │                    █      █      █               │ Histo bin width: 26.0Kbp
+>   0.00% │                    █      █      █               │ Histo max bin:   0.67215%
+          1       260.4K    520.7K    781.1K    1.04M      1.30M  
+
+NC_021089.1 (1.30Mbp)
+>   0.15% │      █                                           │ Number of reads: 2
+>   0.13% │      █                                           │ 
+>   0.12% │      █                                           │ Covered bases:   43bp
+>   0.10% │      █                                           │ Percent covered: 0.003318%
+>   0.08% │      █                                           │ Mean coverage:   6.64e-05x
+>   0.07% │      █                                           │ Mean baseQ:      36.9
+>   0.05% │      █                                           │ Mean mapQ:       0
+>   0.03% │      █                                           │ 
+>   0.02% │      █                                           │ Histo bin width: 25.9Kbp
+>   0.00% │      █                                           │ Histo max bin:   0.16592%
+          1       259.2K    518.3K    777.5K    1.04M      1.30M  
+
+NZ_HG810405.1 (960.6Kbp)
+>   1.28% │                             █                    │ Number of reads: 459
+>   1.14% │                             █                    │ 
+>   1.00% │                             █                    │ Covered bases:   562bp
+>   0.86% │                             █    █               │ Percent covered: 0.0585%
+>   0.71% │                             █    █               │ Mean coverage:   0.0172x
+>   0.57% │                             █    █               │ Mean baseQ:      35.3
+>   0.43% │                             █    █               │ Mean mapQ:       11
+>   0.29% │                           ▂ █    █               │ 
+>   0.14% │                        ▂  █ █    █               │ Histo bin width: 19.2Kbp
+>   0.00% │                        █  █ █    █               │ Histo max bin:   1.4262%
+          1       192.1K    384.2K    576.4K    768.5K     960.6K 
+
+NZ_AP013028.1 (1.25Mbp)
+>   1.28% │              █                                   │ Number of reads: 12
+>   1.14% │              █                                   │ 
+>   0.99% │              █                                   │ Covered bases:   525bp
+>   0.85% │              █                                   │ Percent covered: 0.042%
+>   0.71% │              █                                   │ Mean coverage:   0.00086x
+>   0.57% │              █         ▆                         │ Mean baseQ:      35.9
+>   0.43% │              █         █                         │ Mean mapQ:       1.33
+>   0.28% │              █         █                         │ 
+>   0.14% │              █         █                         │ Histo bin width: 25.0Kbp
+>   0.00% │              █         █                         │ Histo max bin:   1.4199%
+          1       250.0K    500.0K    750.0K    1.00M      1.25M  
+
+NZ_CM003641.1 (1.13Mbp)
+>   3.16% │                         █                        │ Number of reads: 12
+>   2.81% │                         █                        │ 
+>   2.46% │                         █                        │ Covered bases:   930bp
+>   2.11% │                         █                        │ Percent covered: 0.08202%
+>   1.76% │                         █                        │ Mean coverage:   0.000975x
+>   1.40% │                         █                        │ Mean baseQ:      36.1
+>   1.05% │                         █                        │ Mean mapQ:       0.667
+>   0.70% │                         █                        │ 
+>   0.35% │                      ▅  █                        │ Histo bin width: 22.7Kbp
+>   0.00% │                      █  █                        │ Histo max bin:   3.5103%
+          1       226.8K    453.5K    680.3K    907.0K     1.13M  
+
+NZ_CP031221.1 (1.48Mbp)
+>   0.72% │                                   █              │ Number of reads: 10
+>   0.64% │                                   █              │ 
+>   0.56% │                                   █              │ Covered bases:   475bp
+>   0.48% │                                   █   ▁          │ Percent covered: 0.03201%
+>   0.40% │                                   █   █          │ Mean coverage:   0.000439x
+>   0.32% │                                   █   █          │ Mean baseQ:      35.2
+>   0.24% │                                   █   █          │ Mean mapQ:       5.2
+>   0.16% │                                   █   █   ▂      │ 
+>   0.08% │▇                                  █   █   █      │ Histo bin width: 29.7Kbp
+>   0.00% │█                                  █   █   █      │ Histo max bin:   0.79515%
+          1       296.8K    593.6K    890.4K    1.19M      1.48M  
+
+NZ_CP037426.1 (1.35Mbp)
+>   0.60% │                                █                 │ Number of reads: 4
+>   0.53% │                                █                 │ 
+>   0.46% │                                █                 │ Covered bases:   179bp
+>   0.40% │                                █                 │ Percent covered: 0.01324%
+>   0.33% │                                █                 │ Mean coverage:   0.000263x
+>   0.26% │                                █                 │ Mean baseQ:      35.9
+>   0.20% │                                █                 │ Mean mapQ:       0
+>   0.13% │                                █                 │ 
+>   0.07% │                                █                 │ Histo bin width: 27.0Kbp
+>   0.00% │                                █                 │ Histo max bin:   0.66181%
+          1       270.5K    540.9K    811.4K    1.08M      1.35M  
