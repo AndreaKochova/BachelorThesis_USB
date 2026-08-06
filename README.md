@@ -49,4 +49,4 @@ This repository contains Supplementary Material M1 associated with Andrea Kochov
 
 ## Raw mapping data
 
-- [`rawMapping_values/SuppTable_FullMapping_wLog_wTotalreads.xlsx`](rawMapping_values/SuppTable_FullMapping_wLog_wTotalreads.xlsx) — Table containing the mapping metrics for all samples across the 12 reference genomes, including the number of mapped reads. This file is included in Supplementary Material M1.
+- [`rawMapping_values/SuppTable_FullMapping_wLog_wTotalreads.xlsx`](rawMapping_values/SuppTable_FullMapping_wLog_wTotalreads.xlsx) — Table containing the mapping metrics for all samples across the 12 reference genomes, including the number of mapped reads.
