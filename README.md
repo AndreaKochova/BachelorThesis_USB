@@ -46,3 +46,7 @@ This repository contains Supplementary Material M1 associated with Andrea Kochov
 - [`scripts/rpm.py`](scripts/rpm.py) — Python script that combines the per-sample mapping-statistics files with `total_reads.tsv` to calculate mapped-read counts, breadth of coverage, mean depth, and reads per million total reads (RPM), writing the combined results to `rpm_out.tsv`.
 - [`scripts/spades.sh`](scripts/spades.sh) — Shell script for de novo assembly of paired-end reads with SPAdes using k-mer sizes 21, 33, and 77.
 - [`scripts/table_filters.sh`](scripts/table_filters.sh) — Shell and AWK commands used to filter BLASTX tables by E-value (< 1 × 10⁻¹⁰), alignment length (> 300), and percentage identity (> 95%); count retained contig nodes; remove repeated query–subject pairs; and extract candidate sequence identifiers.
+
+## Raw mapping data
+
+- [`rawMapping_values/SuppTable_FullMapping_wLog_wTotalreads.xlsx`](rawMapping_values/SuppTable_FullMapping_wLog_wTotalreads.xlsx) — Table containing the mapping metrics for all samples across the 12 reference genomes, including the number of mapped reads. This file is included in Supplementary Material M1.
